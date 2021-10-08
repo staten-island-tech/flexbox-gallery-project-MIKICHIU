@@ -1,0 +1,13 @@
+box-sizing: border-box;
+box-sizing: content-box;
+box-sizing: inherit;
+box-sizing: initial;
+box-sizing: revert;
+box-sizing: unset;
+.twice {
+  display: flex;
+  flex-wrap: wrap;
+}
+img {
+  width: 30%;
+}
