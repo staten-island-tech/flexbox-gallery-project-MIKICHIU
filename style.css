@@ -1,13 +1,29 @@
-box-sizing: border-box;
-box-sizing: content-box;
-box-sizing: inherit;
-box-sizing: initial;
-box-sizing: revert;
-box-sizing: unset;
+html,
+body,
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-size: 100%;
+}
+#jyp {
+  font-size: 500%;
+  text-align: center;
+}
+img {
+  width: 60%;
+}
 .twice {
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-around;
+  text-align: center;
 }
-img {
-  width: 30%;
+.abc {
+  width: 27%;
+  border-style: solid;
+  border-color: black;
+}
+body {
+  background-color: rgb(185, 166, 135);
 }
