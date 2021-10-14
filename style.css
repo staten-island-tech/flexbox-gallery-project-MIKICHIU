@@ -22,8 +22,13 @@ img {
 .abc {
   width: 27%;
   border-style: solid;
-  border-color: black;
+  border-color: #864c46;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  margin-bottom: 5%;
+  border-radius: 2rem;
+  background-color: #997171;
 }
 body {
-  background-color: rgb(185, 166, 135);
+  background-color: #8b7272;
 }
