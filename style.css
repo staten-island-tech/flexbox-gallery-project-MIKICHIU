@@ -7,8 +7,9 @@ body,
   font-size: 100%;
 }
 #jyp {
-  font-size: 500%;
+  font-size: 1000%;
   text-align: center;
+  color: rgb(80, 41, 49);
 }
 img {
   width: 60%;
@@ -20,15 +21,17 @@ img {
   text-align: center;
 }
 .abc {
-  width: 27%;
+  width: 30%;
   border-style: solid;
-  border-color: #864c46;
-  padding-top: 5%;
-  padding-bottom: 5%;
-  margin-bottom: 5%;
+  border-color: #83615e;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  margin-bottom: 3%;
   border-radius: 2rem;
-  background-color: #997171;
+  background-color: #c7a4a9;
+  box-shadow: 1rem 1rem 1rem rgb(85, 61, 61);
 }
 body {
   background-color: #8b7272;
+  font-family: "Italianno", cursive;
 }
