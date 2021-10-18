@@ -29,7 +29,14 @@ img {
   margin-bottom: 3%;
   border-radius: 2rem;
   background-color: #c7a4a9;
-  box-shadow: 1rem 1rem 1rem rgb(85, 61, 61);
+  box-shadow: 1rem 1rem 1rem rgb(139, 97, 97);
+}
+.images:hover {
+  background-color: rgb(190, 151, 151);
+  box-shadow: 1rem 1rem 1rem rgb(98, 69, 69);
+}
+#jyp:hover {
+  text-decoration: var();
 }
 body {
   background-color: #8b7272;
