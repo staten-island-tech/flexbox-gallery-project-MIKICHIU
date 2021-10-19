@@ -36,7 +36,9 @@ img {
   box-shadow: 1rem 1rem 1rem rgb(98, 69, 69);
 }
 #jyp:hover {
-  text-decoration: var();
+  text-decoration: underline;
+  color: #83615e;
+  font-family: "Scheherazade New", serif;
 }
 body {
   background-color: #8b7272;
