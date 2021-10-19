@@ -54,3 +54,8 @@ body {
     margin-left: 0%;
   }
 }
+@media (max-width: 1284px) {
+  body {
+    background-color: black;
+  }
+}
