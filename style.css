@@ -10,6 +10,8 @@ body,
   font-size: 1000%;
   text-align: center;
   color: rgb(80, 41, 49);
+  left: -100px;
+  animation: 3s slide-left;
 }
 img {
   width: 60%;
@@ -43,4 +45,12 @@ img {
 body {
   background-color: #8b7272;
   font-family: "Italianno", cursive;
+}
+@keyframes slide-left {
+  from {
+    margin-left: 100%;
+  }
+  to {
+    margin-left: 0%;
+  }
 }
