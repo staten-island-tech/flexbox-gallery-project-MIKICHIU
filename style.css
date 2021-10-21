@@ -39,7 +39,7 @@ img {
 }
 #jyp:hover {
   text-decoration: underline;
-  color: #83615e;
+  color: #81504c;
   font-family: "Scheherazade New", serif;
 }
 body {
@@ -56,6 +56,33 @@ body {
 }
 @media (max-width: 1284px) {
   body {
-    background-color: black;
+    background-color: rgb(129, 100, 100);
+  }
+  #jyp {
+    font-size: 8rem;
+  }
+}
+@media (max-width: 800px) {
+  body {
+    background-color: rgb(139, 103, 103);
+  }
+  #jyp {
+    font-size: 7rem;
+  }
+}
+@media (max-width: 600px) {
+  body {
+    background-color: rgb(148, 111, 111);
+  }
+  #jyp {
+    font-size: 6rem;
+  }
+}
+@media (max-width: 400px) {
+  body {
+    background-color: rgb(126, 94, 94);
+  }
+  #jyp {
+    font-size: 5rem;
   }
 }
