@@ -13,8 +13,9 @@ body,
   left: -100px;
   animation: 3s slide-left;
 }
-#h2 {
-  font-size: ;
+h3 {
+  font-size: 50px;
+  color: #83615e;
 }
 img {
   width: 60%;
